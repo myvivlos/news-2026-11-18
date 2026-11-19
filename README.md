@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261118/myvivlos/news-2026-11-18/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 [![reward](https://make.fun/badge/news-image-20261118/myvivlos/news-2026-11-18/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
-A dense one-page newspaper front page headed "THE WORLD IN ONE DAY" for Wednesday 18 November 2026. It packs 42 stories from seven regions onto a single broadsheet, led by the Manila Quad summit.
+A heavy black-nameplate front page headed "THE WORLD IN ONE DAY" for Wednesday 18 November 2026, with 41 sourced headlines in three tight columns, a world map panel marking where each story happened, and a strip of four figures.
 
 ## Run it
 
