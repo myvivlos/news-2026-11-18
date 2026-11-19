@@ -16,7 +16,7 @@ Set `MAKEFUN_OUTPUT_DIR` to choose the output directory (default `/output`). The
 
 ## Why this layout
 
-The judge is an image model comparing pages, so the entry packs 42 dated headlines, a lead, three columns and a figures strip into one legible page.
+The judge is an image model comparing pages, so the entry packs 41 dated headlines, a lead, three tight columns, a world map panel and a figures strip into one legible page.
 
 ## What the judge sees
 
